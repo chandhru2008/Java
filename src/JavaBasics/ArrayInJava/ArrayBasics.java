@@ -1,8 +1,8 @@
-package JavaBasics;
+package JavaBasics.ArrayInJava;
 
 import java.util.Arrays;
 
-public class Array {
+public class ArrayBasics {
     public static void main(String[] args) {
         // In Java, You can not store different data types in same array
         int [] IntegerArray = {1, 2, 3 ,4, 5}; // If you try to print the array directly it will print the memory references of the array
